@@ -1,2 +1,3 @@
 # hello-world
 Just to learn this thing
+Want to write a powershell script to remove bloatware or unwanted apps like Groove Music or remove the games from my machine. Seems everytime I get a new OS release, the same apps and programs get reloaded, even worse, I may delete apps I don't want from my program files but a different profile will still have them or if I create a new profile they get added. If I just run a script to the profile to auto run then I will always get rid of them. However, new OS releases apps have a code that may change with each release so you have to update the OS build number to get those particular items off. In summary, you kind of have to write a new version for eash OS build.
